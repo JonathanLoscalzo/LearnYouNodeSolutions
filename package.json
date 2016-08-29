@@ -1,0 +1,29 @@
+{
+  "name": "learnyounodesolucitions",
+  "version": "1.0.0",
+  "description": "Soluciones a Learn you node de NodeSchool",
+  "main": "null",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanLoscalzo/LearnYouNodeSolutions.git"
+  },
+  "keywords": [
+    "learn",
+    "you",
+    "node"
+  ],
+  "author": "JonathanLoscalzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanLoscalzo/LearnYouNodeSolutions/issues"
+  },
+  "homepage": "https://github.com/JonathanLoscalzo/LearnYouNodeSolutions#readme",
+  "dependencies": {
+    "after": "^0.8.2",
+    "datejs": "^1.0.0-rc3",
+    "through2-map": "^2.0.0"
+  }
+}
